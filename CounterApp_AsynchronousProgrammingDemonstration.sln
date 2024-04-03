@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterApp_AsynchronousProgrammingDemonstration", "CounterApp_AsynchronousProgrammingDemonstration\CounterApp_AsynchronousProgrammingDemonstration.csproj", "{0D811A03-AC90-4255-AAC3-24853446DBD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterAPI_AsynchronousProgrammingDemonstration", "CounterAPI_AsynchronousProgrammingDemonstration\CounterAPI_AsynchronousProgrammingDemonstration.csproj", "{129CF9B7-AE10-4F7E-901B-D6BC00444545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D811A03-AC90-4255-AAC3-24853446DBD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D811A03-AC90-4255-AAC3-24853446DBD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D811A03-AC90-4255-AAC3-24853446DBD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D811A03-AC90-4255-AAC3-24853446DBD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{129CF9B7-AE10-4F7E-901B-D6BC00444545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129CF9B7-AE10-4F7E-901B-D6BC00444545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129CF9B7-AE10-4F7E-901B-D6BC00444545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129CF9B7-AE10-4F7E-901B-D6BC00444545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D0415C3-BBE7-4646-8BE6-2D43E38A579F}
+	EndGlobalSection
+EndGlobal

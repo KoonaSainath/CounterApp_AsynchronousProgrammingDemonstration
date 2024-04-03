@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <br />
+    <br />
+    <a class="btn btn-info" id="btnAsyncIncrement">Asynchronous increment</a>
+    <a class="btn btn-success" id="btnDisplaySomething">Display something</a>
+    <a class="btn btn-danger" id="btnSyncIncrement">Synchronous increment</a>
+    <br />
+    <br />
+    <h1 id="textCounterValue">1</h1>
+    <br />
+    <br />
+    <h3 id="textSomething"></h3>
+</div>
+
+@section scripts{
+    <script src="~/js/index.js"></script>
+}

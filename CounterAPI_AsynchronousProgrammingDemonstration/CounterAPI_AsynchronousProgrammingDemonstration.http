@@ -1,0 +1,6 @@
+@CounterAPI_AsynchronousProgrammingDemonstration_HostAddress = http://localhost:5002
+
+GET {{CounterAPI_AsynchronousProgrammingDemonstration_HostAddress}}/api/Counter/IncrementCount/1
+Accept: application/json
+
+###
